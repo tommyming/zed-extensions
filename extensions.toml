@@ -4183,6 +4183,10 @@ version = "0.0.1"
 submodule = "extensions/wxml"
 version = "0.1.0"
 
+[xcode-mcp-bundle]
+submodule = "extensions/xcode-mcp-bundle"
+version = "0.1.1"
+
 [xcode-themes]
 submodule = "extensions/xcode-themes"
 version = "2.0.1"
